@@ -1,11 +1,11 @@
 # FileEncryptorApp
 
 ## Overview
-FileEncryptorApp is a powerful encryption tool that allows users to securely encrypt and decrypt files using modern encryption algorithms. This application is designed to enhance file security and privacy by leveraging RSA and AES hybrid encryption techniques.
+FileEncryptorApp is a powerful encryption tool that allows users to securely encrypt and decrypt files using modern encryption algorithm. This application is designed to enhance file security and privacy by leveraging AES encryption technique.
 
 ## Features
 - Securely encrypt and decrypt files
-- Uses RSA and AES hybrid encryption for enhanced security
+- Uses AES encryption for enhanced security
 - User-friendly interface for easy encryption and decryption
 - Supports multiple file formats including TXT and PDF
 
